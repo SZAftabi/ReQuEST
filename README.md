@@ -1,4 +1,3 @@
-# ReQuEST
 <h1> Paper </h1>
 <p align="justify">
 This repository contains the ipynb code for the following paper:
